@@ -1,0 +1,47 @@
+[{
+    "name": "Python",
+    "price": 88
+  }, {
+    "name": "C++",
+    "price": 46
+  }, {
+    "name": "C+",
+    "price": 72
+  }, {
+    "name": "HTML",
+    "price": 54
+  }, {
+    "name": "CSS",
+    "price": 34
+  }, {
+    "name": "JavaScript",
+    "price": 74
+  }, {
+    "name": "React",
+    "price": 98
+  }, {
+    "name": "PHP",
+    "price": 27
+  }, {
+    "name": "Data structure",
+    "price": 95
+  }, {
+    "name": "Jquery",
+    "price": 57
+  }, {
+    "name": "Ajuxs",
+    "price": 64
+  }, {
+    "name": "AngularJS",
+    "price": 61
+  }, {
+    "name": "veuJs",
+    "price": 38
+  }, {
+    "name": "Java",
+    "price": 28
+  }, {
+    "name": "C#",
+    "price": 66
+  }]
+  

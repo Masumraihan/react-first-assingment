@@ -1,0 +1,18 @@
+.main_container{
+    height: 200px;
+    background-color: lightgray;
+    margin: 20px;
+    padding: 20px;
+    line-height: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 5px;
+}
+.enroll_btn{
+    padding: 8px 15px;
+    background-color: orange;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
